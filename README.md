@@ -73,8 +73,8 @@ Feel free to open issues or submit PRs with ideas or improvements!
 
 ## 📬 Contact
 
-Built and maintained by [Elisabeth Krebs](https://duncware.com)  
-For inquiries or collaboration, reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/in/elisabethkrebs).
+Built and maintained by Duncan Krebs
+For inquiries or collaboration, reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/in/duncware).
 
 ---
 
